@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Nuwan-Ranasinghe
+- 👀 I’m interested in coding and data science
+- 🌱 I’m currently improving coding skills and database management skills
+- 📫 Reach me through https://www.linkedin.com/in/nuwan-ranasinghe/
